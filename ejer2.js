@@ -17,3 +17,8 @@ function factorial(valor){
     }
     return resultado;
 }
+
+function potencia(base, exponente){
+    return Math.pow(base, exponente);
+}
+
